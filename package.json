@@ -1,0 +1,25 @@
+{
+  "name": "@daun/dropshare",
+  "version": "2.1.0",
+  "description": "An unobtrusive landing page template for the Mac filesharing app Dropshare",
+  "author": "Philipp Daun",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@tailwindcss/container-queries": "^0.1.1",
+    "@tailwindcss/typography": "^0.5.9",
+    "autoprefixer": "^10.4.5",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.24",
+    "vite": "^5.2.11",
+    "vite-plugin-minify": "^1.5.2",
+    "vite-plugin-singlefile": "^2.0.1"
+  },
+  "dependencies": {
+    "lucide": "^0.378.0"
+  }
+}
